@@ -7,11 +7,10 @@ export default function Home() {
             <aside className="relative overflow-hidden text-black rounded-lg sm:mx-16 mx-2 sm:py-16">
                 <div className="relative z-10 max-w-screen-xl px-4  pb-20 pt-10 sm:py-24 mx-auto sm:px-6 lg:px-8">
                     <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
-                        <h2 className="text-4xl font-bold sm:text-5xl">
-                            Download Now
-                            <span className="hidden sm:block text-4xl my-4">MediMatch</span>
+                        <h2 className="text-4xl font-bold sm:text-4xl">
+                        COLLEGE GRIEVANCE FORM
+                            <span className="hidden sm:block text-4xl my-4">SRMIST</span>
                         </h2>
-
                         <Link
                             className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
                             to="/"
@@ -32,15 +31,15 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://static.vecteezy.com/system/resources/thumbnails/017/447/923/small/capsule-with-letter-u-design-symbol-for-your-best-business-symbol-vector.jpg" alt="image1" />
+                    <img className="w-96" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hmZ25nQroz4waDi44lodZ4PuLe6yqme1WA&s" alt="image1" />
                 </div>
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHiAOlcr-niRbNXte_Ik4U2DWV4Skt_CBs6A&s" alt="image2" />
+                <img className="sm:w-96 w-48" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">VOICIT</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium"></h1>
         </div>
     );
 }

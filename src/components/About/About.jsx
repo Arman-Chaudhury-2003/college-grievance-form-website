@@ -7,21 +7,18 @@ export default function About() {
               <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                   <div className="md:5/12 lg:w-5/12">
                       <img
-                          src="https://jpinfotech.org/wp-content/uploads/2020/11/jplogo.png"
+                          src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png"
                           alt="image"
                       />
                   </div>
                   <div className="md:7/12 lg:w-6/12">
                       <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
-                      Medimatch             
+                      COLLEGE GRIEVANCE FORM             
                      </h2>
                       <p className="mt-6 text-gray-600">
-
-                      MediMatch is an AI-powered drug recommendation app that provides personalized medication suggestions based on your health profile. It helps you find the most effective and safe medications tailored to your specific needs, making healthcare decisions easier and smarter.
-
+The College Grievance Form website is a streamlined platform designed to help students and faculty easily submit their concerns and complaints. It ensures transparency, efficiency, and quick resolution by allowing users to report issues online. The system categorizes grievances, tracks their status, and facilitates communication between students and the administration for a smoother resolution process.
                       </p>
                       <p className="mt-4 text-gray-600">
-                      An AI-driven app that recommends personalized medications, ensuring smarter and safer healthcare decisions.
                       </p>
                   </div>
               </div>
